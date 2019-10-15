@@ -1,0 +1,130 @@
+*{
+    font-family: Helvetica;
+}
+.container-fluid{ padding: 0 !important;}
+
+
+#navbar {
+	background-color: #1a1a1a;
+	margin: 0;
+    padding: 0;
+    text-align: center; 
+}
+
+#logo {
+	margin-right: 50px;
+    display: inline;    
+}
+.btn-secondary{ background: #ee448b !important; }
+
+.menu-main-ul li, .link-menu{
+    display: inline-block;
+    font-weight: 400;
+    color: #1a1a1a;
+    padding: 10px 15px;
+}
+
+.link-menu:hover{
+    background-color: #ee448b;
+    transition: all 0.25s linear;
+    color: #fff;
+    text-decoration: none;
+}
+
+
+a:link {
+    color: #fff;
+}
+
+a:visited {
+    color: #fff;
+}
+
+a:hover {   
+    color: #ee448b;
+    text-decoration: none;
+}
+
+a:focus{
+    color: #1a1a1a;
+    background-color: #ee448b;
+}
+
+#presentation{
+    margin: 0 auto;
+    text-align: center;
+}
+
+#presentation h1{
+    font-size: 50px;
+    text-align: center;
+    color: #ee448b;
+    font-family: Impact;
+}
+
+button{
+    background-color: #ee448b;
+    color: #fff;
+    text-align: center;
+    border: none;
+    margin: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+
+#section-avantages{ 
+    color: #fff;
+    background-color: #1a1a1a; 
+}
+
+
+#avantages h4{
+    color: #ee448b;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#imgAvantages{
+    background-color: #1a1a1a;
+    background: url(../img/sasha-bond.jpg) center center;
+    background-size: cover;
+    padding: 200px 0; 
+}
+
+
+footer{
+    background-color: #1a1a1a;
+    color: #fff;
+    margin: auto;
+}
+
+footer img{
+    float: left;
+    margin-right: 10px;
+}
+
+footer h4{
+    font-size: 22px;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+
+.bg-couleur-1{
+    background-color: #ee448b;
+    color: #fff;
+}
+
+.bg-couleur-2{
+    background-color: #fff;
+    color: #000;
+}

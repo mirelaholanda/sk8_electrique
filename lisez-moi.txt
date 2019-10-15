@@ -1,0 +1,26 @@
+Un projet conçu pour s'exercer à utiliser HTML5, CSS3 et Bootstrap. 
+Les images utilisées dans ce projet sont répertoriées ci-dessous avec leurs auteurs respectifs. 
+Sk8 Électrique est un produit fictif qui a été créé pour démontrer les compétences en développement Web de l'auteure Mirela Holanda.
+
+Les noms des polices utilisées dans mon site sont: Helvetica et Impact
+
+Les codes des coleurs sont:
+#ee448b
+#1a1a1a
+#ffffff
+
+Images utilisées dans le projet:
+Martin Nordström
+https://unsplash.com/photos/WS39Icmwbtw
+
+Sasha Bond
+https://unsplash.com/photos/4oflWlbhE3c
+
+Boosted Board
+http://www.levijacobprice.com/boosted
+https://static1.squarespace.com/static/5489c875e4b056db6cc8a439/t/5c60b91ee79c703cac29b965/1551023767447/Boosted+Boards+by+Kyson+Dana
+
+https://eboardstore.eu/exway/exway-x1-electric-skateboard/
+
+Icons et logo des réseaux sociaux:
+Freepik et Iconfinder
